@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏠 [blog](https://mvcv.tistory.com/)
+🏠 [Tistory](https://mvcv.tistory.com/)
 
 <!--
 **gyuilLim/gyuilLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
