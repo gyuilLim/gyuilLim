@@ -13,7 +13,8 @@
 |---|---|---|
 |숭실대학교 AI융합학부|2019.03~ | 숭실대학교 AI융합학부 소속|
 |공군 군사경찰 |2021.01~2012.10|공군 병장 만기제대|
-|숭실대학교 Vision Lab | 2023.06~ | Computer Vision Lab.|
+|숭실대학교 Vision Lab | 2023.06~ | Computer Vision |
 
-## 수상경력
+## AI challenge
 - 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상
+- 2023 2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation 10등
