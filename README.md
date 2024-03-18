@@ -1,18 +1,19 @@
-### Hi there 👋
+# 안녕하세요. 임규일입니다.
+- (현)SSU Vision Lab
+- (현)숭실대학교 AI융합학부
 
-🏠 [Tistory](https://mvcv.tistory.com/)
+## Contact
 
-<!--
-**gyuilLim/gyuilLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- `Email` | swea76019059@gmail.com
+- `TechBlog` | <a href="https://stg0123.github.io/" target="_blank">https://mvcv.tistory.com/</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 연혁<br/>
+|활동|기간|비고|
+|---|---|---|
+|숭실대학교 AI융합학부|2019.03~ | 숭실대학교 AI융합학부 소속|
+|공군 군사경찰 |2021.01~2012.10|공군 병장 만기제대|
+|숭실대학교 Vision Lab | 2023.06~ | Computer Vision Lab.|
+
+## 수상경력
+- 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상
