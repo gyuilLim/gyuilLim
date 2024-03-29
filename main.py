@@ -4,7 +4,7 @@ import feedparser
 blog_url = "https://mvcv.tistory.com/rss"
 rss_feed = feedparser.parse(blog_url)
 
-MAX_NUM = 3
+MAX_NUM = 2
 
 latest_posts = ""
 
@@ -24,7 +24,7 @@ preREADME1 = """
 - `Email` | swea76019059@gmail.com
 - `TechBlog` | <a href="https://stg0123.github.io/" target="_blank">https://mvcv.tistory.com/</a>
 
----
+##
 """
 
 preREADME2 = """
