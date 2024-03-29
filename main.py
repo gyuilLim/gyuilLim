@@ -2,7 +2,7 @@ import feedparser, time
 
 URL = "https://mvcv.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 5
+MAX_POST = 3
 
 markdown_text = """
 ## ✅ Latest Blog Post
