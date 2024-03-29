@@ -14,7 +14,7 @@ for idx, entrie in enumerate(rss_feed['entries']):
   feed_date = entrie['published_parsed']
   latest_posts += f" - [{feed_date.tm_mon}/{feed_date.tm_mday} - {entrie['title']}]({entrie['link']})\n"
 
-preREADME = """
+preREADME1 = """
 # 👋 안녕하세요. 임규일입니다.
 - (현)SSU Vision Lab
 - (현)숭실대학교 AI융합학부
@@ -23,6 +23,9 @@ preREADME = """
 
 - `Email` | swea76019059@gmail.com
 - `TechBlog` | <a href="https://stg0123.github.io/" target="_blank">https://mvcv.tistory.com/</a>
+"""
+
+preREADME2 = """
 
 ## 🏁 AI challenge
 - 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상
@@ -37,7 +40,7 @@ preREADME = """
 
 """
 
-resultREADME = f"{preREADME}{latest_posts}"
+resultREADME = f"{preREADME1}{latest_posts}{preREADME2}"
 
 with open("README.md", "w", encoding='utf-8') as f :
   f.write(resultREADME)
