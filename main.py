@@ -1,21 +1,24 @@
-import feedparser, time
+## update_blogPost.py
+import feedparser
 
-URL = "https://mvcv.tistory.com/rss"
-RSS_FEED = feedparser.parse(URL)
-MAX_POST = 3
+blog_url = "https://mvcv.tistory.com/rss"
+rss_feed = feedparser.parse(blog_url)
 
-markdown_text = """
-## ✅ Latest Blog Post
+MAX_NUM = 5
 
-"""  # list of blog posts will be appended here
+latest_posts = ""
 
-for idx, feed in enumerate(RSS_FEED['entries']):
-    if idx > MAX_POST:
-        break
-    else:
-        feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
-        
-f = open("README.md", mode="w", encoding="utf-8")
-f.write(markdown_text)
-f.close()
+for idx, entrie in enumerate(rss_feed['entries']):
+  if idx > MAX_NUM:
+     break;
+  feed_date = entrie['published_parsed']
+  latest_posts += f" - [{feed_date.tm_mon}/{feed_date.tm_mday} - {entrie['title']}]({entrie['link']})\n"
+
+preREADME = """
+## 기존의 README.md 내용
+"""
+
+resultREADME = f"{preREADME}{latest_posts}"
+
+with open("README.md", "w", encoding='utf-8') as f :
+  f.write(resultREADME)
