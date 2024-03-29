@@ -23,6 +23,8 @@ preREADME1 = """
 
 - `Email` | swea76019059@gmail.com
 - `TechBlog` | <a href="https://stg0123.github.io/" target="_blank">https://mvcv.tistory.com/</a>
+
+---
 """
 
 preREADME2 = """
