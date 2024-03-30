@@ -1,7 +1,7 @@
 
 # 👋 안녕하세요. 임규일입니다.
 - (현)SSU Vision Lab
-- (현)숭실대학교 AI융합학부
+- (현)SSU AI Convergence
 
 ## 📪 Contact
 
