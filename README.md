@@ -9,9 +9,9 @@
 - `TechBlog` | <a href="https://stg0123.github.io/" target="_blank">https://mvcv.tistory.com/</a>
 
 ##
+ - [5/19 - [딥러닝 공부] Entorpy란?](https://mvcv.tistory.com/27)
  - [5/9 - [SSH 원격 접속] 딥러닝 학습 안끊기게 설정하는 법, 세션유지](https://mvcv.tistory.com/25)
  - [4/26 - [논문 리뷰/요약] Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs](https://mvcv.tistory.com/24)
- - [3/29 - [논문 리뷰/요약]MobileNetv1, MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://mvcv.tistory.com/22)
 
 
 ## 🏁 AI challenge
