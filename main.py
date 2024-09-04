@@ -1,7 +1,7 @@
 ## update_blogPost.py
 import feedparser
 
-blog_url = "https://mvcv.tistory.com/rss"
+blog_url = "https://mvcv.tistory.com/"
 rss_feed = feedparser.parse(blog_url)
 
 MAX_NUM = 2
