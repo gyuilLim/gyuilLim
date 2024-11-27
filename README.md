@@ -26,6 +26,7 @@
 - 2023 2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation 10등
 
 ## 🌟 Relevant Experience
+- 2024 SW 동행 해커톤 대학생 멘토
 
 ## ⌚ 연혁<br/>
 |활동|기간|비고|
