@@ -8,7 +8,7 @@
 - `Email` | swea76019059@gmail.com
 - `TechBlog` | <a href="https://stg0123.github.io/" target="_blank">https://mvcv.tistory.com/</a>
 
-##
+## 📰 Blog
  - [6/25 - [딥러닝 공부] FFT, 퓨리에 변환이란?](https://mvcv.tistory.com/28)
  - [5/19 - [딥러닝 공부] Entorpy란?](https://mvcv.tistory.com/27)
  - [5/9 - [SSH 원격 접속] 딥러닝 학습 안끊기게 설정하는 법, 세션유지](https://mvcv.tistory.com/25)
