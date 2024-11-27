@@ -1,48 +1,22 @@
-## update_blogPost.py
-import feedparser
+import feedparser, time
 
-blog_url = "https://mvcv.tistory.com/"
-rss_feed = feedparser.parse(blog_url)
+URL = "https://mvcv.tistory.com/rss"
+RSS_FEED = feedparser.parse(URL)
+MAX_POST = 5
 
-MAX_NUM = 2
+markdown_text = """
+## Enjoys solving problems and controlling flow with JavaScript
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbitnaleeeee&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Recent Post 
+"""  # list of blog posts will be appended here
 
-latest_posts = ""
-
-for idx, entrie in enumerate(rss_feed['entries']):
-  if idx > MAX_NUM:
-     break;
-  feed_date = entrie['published_parsed']
-  latest_posts += f" - [{feed_date.tm_mon}/{feed_date.tm_mday} - {entrie['title']}]({entrie['link']})\n"
-
-preREADME1 = """
-# 👋 안녕하세요. 임규일입니다.
-- (현)SSU Vision Lab
-- (현)숭실대학교 AI융합학부
-
-## 📪 Contact
-
-- `Email` | swea76019059@gmail.com
-- `TechBlog` | <a href="https://stg0123.github.io/" target="_blank">https://mvcv.tistory.com/</a>
-
-##
-"""
-
-preREADME2 = """
-
-## 🏁 AI challenge
-- 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상
-- 2023 2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation 10등
-
-## ⌚ 연혁<br/>
-|활동|기간|비고|
-|---|---|---|
-|숭실대학교 AI융합학부|2019.03~ | 숭실대학교 AI융합학부 소속|
-|공군 군사경찰 |2021.01~2022.10|공군 병장 만기제대|
-|숭실대학교 Vision Lab | 2023.06~ | Computer Vision |
-
-"""
-
-resultREADME = f"{preREADME1}{latest_posts}{preREADME2}"
-
-with open("README.md", "w", encoding='utf-8') as f :
-  f.write(resultREADME)
+for idx, feed in enumerate(RSS_FEED['entries']):
+    if idx > MAX_POST:
+        break
+    else:
+        feed_date = feed['published_parsed']
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        
+f = open("README.md", mode="w", encoding="utf-8")
+f.write(markdown_text)
+f.close()
