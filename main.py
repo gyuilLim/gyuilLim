@@ -5,7 +5,6 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 2
 
 markdown_text = """
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmvcv.tistory.com&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Recent Post 
 """  # list of blog posts will be appended here
@@ -14,6 +13,8 @@ preREADME1 = """
 # 👋 안녕하세요. 임규일입니다.
 - (현)SSU Vision Lab
 - (현)숭실대학교 AI융합학부
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmvcv.tistory.com&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📪 Contact
 
