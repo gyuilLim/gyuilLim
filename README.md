@@ -18,6 +18,9 @@
 - 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상
 - 2023 2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation 10등
 
+## Other relevent experience
+- 2024 SW 동행 해커톤 대학생 멘토
+
 ## ⌚ 연혁<br/>
 |활동|기간|비고|
 |---|---|---|
