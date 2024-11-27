@@ -11,7 +11,7 @@
 - `TechBlog` | <a href="https://stg0123.github.io/" target="_blank">https://mvcv.tistory.com/</a>
 
 
-## Recent Post 
+## ✍️ Recent Post 
 - [2024/11/21 - [논문 리뷰/요약] VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning](https://mvcv.tistory.com/34) <br/>
 - [2024/10/16 - [논문 리뷰/요약] REDQT: a method for automatedmobile application GUI testing basedon deep reinforcement learning algorithms](https://mvcv.tistory.com/33) <br/>
 - [2024/09/11 - [논문 리뷰/요약] DETR, End-to-End Object Detection with Transformers](https://mvcv.tistory.com/32) <br/>
