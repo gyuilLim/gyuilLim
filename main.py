@@ -6,7 +6,7 @@ MAX_POST = 2
 
 markdown_text = """
 
-## Recent Post 
+## ✍️ Recent Post 
 """  # list of blog posts will be appended here
 
 preREADME1 = """
