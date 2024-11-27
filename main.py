@@ -2,7 +2,7 @@ import feedparser, time
 
 URL = "https://mvcv.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 3
+MAX_POST = 2
 
 markdown_text = """
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmvcv.tistory.com&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
