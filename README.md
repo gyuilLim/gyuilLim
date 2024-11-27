@@ -10,8 +10,6 @@
 - `Email` | swea76019059@gmail.com
 - `TechBlog` | <a href="https://stg0123.github.io/" target="_blank">https://mvcv.tistory.com/</a>
 
-##
-
 
 ## Recent Post 
 - [2024/11/21 - [논문 리뷰/요약] VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning](https://mvcv.tistory.com/34) <br/>
