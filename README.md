@@ -16,9 +16,6 @@
 - [2024/10/16 - [논문 리뷰/요약] REDQT: a method for automatedmobile application GUI testing basedon deep reinforcement learning algorithms](https://mvcv.tistory.com/33) <br/>
 - [2024/09/11 - [논문 리뷰/요약] DETR, End-to-End Object Detection with Transformers](https://mvcv.tistory.com/32) <br/>
 
-## 📰 Publications
-- 이종 특징 맵을 이용한 교차 어텐션 기반 소형 객체 검출 기법 - 한국인공지능시스템학회 추계학술대회(KIIS), 2024
-
 
 ## 🏁 AI challenge
 - 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상
