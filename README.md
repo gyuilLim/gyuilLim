@@ -12,12 +12,9 @@
 
 
 ## ✍️ Recent Post 
+- [2024/12/04 - [졸업 논문/프로젝트] 딥러닝 알고리즘을 이용한 상황 검색 가능한 비디오 플레이어 구현](https://mvcv.tistory.com/35) <br/>
 - [2024/11/21 - [논문 리뷰/요약] VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning](https://mvcv.tistory.com/34) <br/>
 - [2024/10/16 - [논문 리뷰/요약] REDQT: a method for automatedmobile application GUI testing basedon deep reinforcement learning algorithms](https://mvcv.tistory.com/33) <br/>
-- [2024/09/11 - [논문 리뷰/요약] DETR, End-to-End Object Detection with Transformers](https://mvcv.tistory.com/32) <br/>
-
-## 📰 Publications
-- 이종 특징 맵을 이용한 교차 어텐션 기반 소형 객체 검출 기법 - 한국인공지능시스템학회 추계학술대회(KIIS), 2024
 
 
 ## 🏁 AI challenge
