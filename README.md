@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2024/12/24 - [딥러닝 공부] 1차, 2차 미분 마스크, 에지 검출](https://mvcv.tistory.com/38) <br/>
 - [2024/12/20 - [딥러닝 공부] 이미지 샤프닝, 블러링, 1차 미분 마스크](https://mvcv.tistory.com/37) <br/>
 - [2024/12/18 - [딥러닝 공부] 정보 이론과 엔트로피](https://mvcv.tistory.com/36) <br/>
-- [2024/12/04 - [졸업 논문/프로젝트] 딥러닝 알고리즘을 이용한 상황 검색 가능한 비디오 플레이어 구현](https://mvcv.tistory.com/35) <br/>
 
 
 ## 🏁 AI challenge
