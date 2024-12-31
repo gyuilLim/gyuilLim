@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2024/12/30 - [딥러닝 공부] 노이즈 제거를 위한 이미지 필터링(평균, 미디언, 가우시안)](https://mvcv.tistory.com/39) <br/>
 - [2024/12/24 - [딥러닝 공부] 1차, 2차 미분 마스크, 에지 검출](https://mvcv.tistory.com/38) <br/>
 - [2024/12/20 - [딥러닝 공부] 이미지 샤프닝, 블러링, 1차 미분 마스크](https://mvcv.tistory.com/37) <br/>
-- [2024/12/18 - [딥러닝 공부] 정보 이론과 엔트로피](https://mvcv.tistory.com/36) <br/>
 
 
 ## 🏁 AI challenge
