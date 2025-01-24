@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/01/23 - [논문 리뷰/요약] SLIP: Self-supervision meets Language-Image Pre-training](https://mvcv.tistory.com/52) <br/>
 - [2025/01/21 - [논문 리뷰/요약] Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text DatasetFor Automatic Image Captioning](https://mvcv.tistory.com/51) <br/>
 - [2025/01/20 - [논문 리뷰/요약] ALIGN : Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://mvcv.tistory.com/50) <br/>
-- [2025/01/20 - [논문 리뷰/요약] CLIP : Learning Transferable Visual Models From Natural Language Supervision](https://mvcv.tistory.com/49) <br/>
 
 
 ## 🏁 AI challenge
