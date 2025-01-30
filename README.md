@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/01/29 - [논문 리뷰/요약] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://mvcv.tistory.com/54) <br/>
 - [2025/01/26 - [딥러닝 공부] KL Divergence와 Cross Entropy](https://mvcv.tistory.com/53) <br/>
 - [2025/01/23 - [논문 리뷰/요약] SLIP: Self-supervision meets Language-Image Pre-training](https://mvcv.tistory.com/52) <br/>
-- [2025/01/21 - [논문 리뷰/요약] Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text DatasetFor Automatic Image Captioning](https://mvcv.tistory.com/51) <br/>
 
 
 ## 🏁 AI challenge
