@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/02/02 - [논문 리뷰/요약] LLaVA : Visual Instruction Tuning](https://mvcv.tistory.com/55) <br/>
 - [2025/01/29 - [논문 리뷰/요약] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://mvcv.tistory.com/54) <br/>
 - [2025/01/26 - [딥러닝 공부] KL Divergence와 Cross Entropy](https://mvcv.tistory.com/53) <br/>
-- [2025/01/23 - [논문 리뷰/요약] SLIP: Self-supervision meets Language-Image Pre-training](https://mvcv.tistory.com/52) <br/>
 
 
 ## 🏁 AI challenge
