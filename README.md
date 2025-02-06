@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/02/05 - [논문 리뷰/요약] CLIPPO: Image-and-Language Understanding from Pixels Only](https://mvcv.tistory.com/59) <br/>
+- [2025/02/05 - [논문 리뷰/요약] CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://mvcv.tistory.com/58) <br/>
 - [2025/02/04 - [논문 요약/리뷰] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://mvcv.tistory.com/57) <br/>
-- [2025/02/03 - [논문 리뷰/요약] BLIP: Bootstrapping Language-Image Pre-training for Uniﬁed Vision-Language Understanding and Generation](https://mvcv.tistory.com/56) <br/>
-- [2025/02/02 - [논문 리뷰/요약] LLaVA : Visual Instruction Tuning](https://mvcv.tistory.com/55) <br/>
 
 
 ## 🏁 AI challenge
