@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/02/14 - [논문 리뷰/요약] BEIT: BERT Pre-Training of Image Transformers](https://mvcv.tistory.com/62) <br/>
 - [2025/02/12 - [논문 리뷰/요약] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://mvcv.tistory.com/61) <br/>
 - [2025/02/07 - [논문 리뷰/요약] BLIP-2: Bootstrapping Language-Image Pre-training](https://mvcv.tistory.com/60) <br/>
-- [2025/02/05 - [논문 리뷰/요약] CLIPPO: Image-and-Language Understanding from Pixels Only](https://mvcv.tistory.com/59) <br/>
 
 
 ## 🏁 AI challenge
