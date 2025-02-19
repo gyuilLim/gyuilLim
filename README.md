@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/02/18 - [논문 요약/리뷰] LLaMA: Open and Efficient Foundation Language Models](https://mvcv.tistory.com/63) <br/>
 - [2025/02/14 - [논문 리뷰/요약] BEIT: BERT Pre-Training of Image Transformers](https://mvcv.tistory.com/62) <br/>
 - [2025/02/12 - [논문 리뷰/요약] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://mvcv.tistory.com/61) <br/>
-- [2025/02/07 - [논문 리뷰/요약] BLIP-2: Bootstrapping Language-Image Pre-training](https://mvcv.tistory.com/60) <br/>
 
 
 ## 🏁 AI challenge
