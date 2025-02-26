@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/02/25 - [논문 요약/리뷰] METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments](https://mvcv.tistory.com/66) <br/>
+- [2025/02/25 - [논문 요약/리뷰] BLEU: a Method for Automatic Evaluation of Machine Translation](https://mvcv.tistory.com/65) <br/>
 - [2025/02/24 - [논문 요약/리뷰] CoOp : Learning to Prompt for Vision-Language Models](https://mvcv.tistory.com/64) <br/>
-- [2025/02/18 - [논문 요약/리뷰] LLaMA: Open and Efficient Foundation Language Models](https://mvcv.tistory.com/63) <br/>
-- [2025/02/14 - [논문 리뷰/요약] BEIT: BERT Pre-Training of Image Transformers](https://mvcv.tistory.com/62) <br/>
 
 
 ## 🏁 AI challenge
