@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/02/27 - [논문 요약/리뷰] CIDEr: Consensus-based Image Description Evaluation](https://mvcv.tistory.com/68) <br/>
+- [2025/02/27 - [논문 요약/리뷰] ROUGE: A Package for Automatic Evaluation of Summaries](https://mvcv.tistory.com/67) <br/>
 - [2025/02/25 - [논문 요약/리뷰] METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments](https://mvcv.tistory.com/66) <br/>
-- [2025/02/25 - [논문 요약/리뷰] BLEU: a Method for Automatic Evaluation of Machine Translation](https://mvcv.tistory.com/65) <br/>
-- [2025/02/24 - [논문 요약/리뷰] CoOp : Learning to Prompt for Vision-Language Models](https://mvcv.tistory.com/64) <br/>
 
 
 ## 🏁 AI challenge
