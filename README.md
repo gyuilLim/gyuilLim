@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/02/28 - [딥러닝 공부] Vision-Language Evaluation Metrics(VLM 벤치마크 평가 지표)](https://mvcv.tistory.com/70) <br/>
+- [2025/02/28 - [논문 요약/리뷰] SPICE: Semantic Propositional Image Caption Evaluation](https://mvcv.tistory.com/69) <br/>
 - [2025/02/27 - [논문 요약/리뷰] CIDEr: Consensus-based Image Description Evaluation](https://mvcv.tistory.com/68) <br/>
-- [2025/02/27 - [논문 요약/리뷰] ROUGE: A Package for Automatic Evaluation of Summaries](https://mvcv.tistory.com/67) <br/>
-- [2025/02/25 - [논문 요약/리뷰] METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments](https://mvcv.tistory.com/66) <br/>
 
 
 ## 🏁 AI challenge
