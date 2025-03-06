@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/03/06 - [초간단] Ubuntu 디렉터리 용량 확인 명령어 모음](https://mvcv.tistory.com/72) <br/>
 - [2025/03/04 - [논문 리뷰/요약] TinyLLaVA: A Framework of Small-scale Large Multimodal Models](https://mvcv.tistory.com/71) <br/>
 - [2025/02/28 - [딥러닝 공부] Vision-Language Evaluation Metrics(VLM 벤치마크 평가 지표)](https://mvcv.tistory.com/70) <br/>
-- [2025/02/28 - [논문 요약/리뷰] SPICE: Semantic Propositional Image Caption Evaluation](https://mvcv.tistory.com/69) <br/>
 
 
 ## 🏁 AI challenge
@@ -24,7 +24,7 @@
 - 2024 SW 동행 해커톤 대학생 멘토
 
 ## 📜 Publications
-- 이종 특징 맵을 이용한 교차 어텐션 기반 소형 객체 검출 기법, 한국지능시스템학회(KIIS) 추계학술대회, 2024
+- 이종 특징 맵을 이용한 교차 어텐션 기반 소형 객체 검출 기법, 한국인공지능시스템학회(KIIS) 추계학술대회, 2024
 
 ## ⌚ 연혁<br/>
 |활동|기간|비고|
