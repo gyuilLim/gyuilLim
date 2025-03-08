@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/03/07 - [논문 요약/리뷰] FuseMix: Data-Efficient Multimodal Fusion on a Single GPU](https://mvcv.tistory.com/73) <br/>
 - [2025/03/06 - [초간단] Ubuntu 디렉터리 용량 확인 명령어 모음](https://mvcv.tistory.com/72) <br/>
 - [2025/03/04 - [논문 리뷰/요약] TinyLLaVA: A Framework of Small-scale Large Multimodal Models](https://mvcv.tistory.com/71) <br/>
-- [2025/02/28 - [딥러닝 공부] Vision-Language Evaluation Metrics(VLM 벤치마크 평가 지표)](https://mvcv.tistory.com/70) <br/>
 
 
 ## 🏁 AI challenge
