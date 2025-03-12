@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/03/11 - [논문 요약/리뷰] LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://mvcv.tistory.com/74) <br/>
 - [2025/03/07 - [논문 요약/리뷰] FuseMix: Data-Efficient Multimodal Fusion on a Single GPU](https://mvcv.tistory.com/73) <br/>
 - [2025/03/06 - [초간단] Ubuntu 디렉터리 용량 확인 명령어 모음](https://mvcv.tistory.com/72) <br/>
-- [2025/03/04 - [논문 리뷰/요약] TinyLLaVA: A Framework of Small-scale Large Multimodal Models](https://mvcv.tistory.com/71) <br/>
 
 
 ## 🏁 AI challenge
