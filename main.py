@@ -12,8 +12,8 @@ markdown_text = """
 preREADME1 = """
 # 👋 안녕하세요. 임규일입니다. Hello. I'm GyuIl Lim
 
-- 숭실대학교 비전시스템 연구실 석사과정
-- M.S. Student in AI at Soongsil University, Vision System Laboratory
+- 숭실대학교 AI융합학과 석사과정
+- M.S. Student in AI at Soongsil University, Major of AI Convergence
 
 
 ## 📪 Contact
@@ -45,7 +45,7 @@ preREADME2 = """
 |숭실대학교 AI융합학부(Soongsil University, School of AI Convergence)|2019.03~2025.02 |-|
 |공군 군사경찰(Republic of Korea Air Force, Military Police) |2021.01~2022.10|공군 병장 만기제대(Honorable Discharge as Air Force Sergeant)|
 |숭실대학교 Vision System Lab(Soongsil University Vision System Lab) | 2023.06~ | Computer Vision Research |
-|숭실대학원 AI융합학과(Soongsil University, Graduate School of AI Convergence) | 2025.03~ |-| 
+|숭실대학원 AI융합학과 석사과정(M) | 2025.03~ |-| 
 
 """
 
