@@ -25,18 +25,18 @@ preREADME1 = """
 preREADME2 = """
 
 ## 🏁 AI challenge
-- 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상
+- 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상  
 (2023 University National Center of Excellence in Software Joint AI Competition - Chairman’s Award)
 
-- 2023 2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation 10등
+- 2023 2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation 10등  
 (2023 Samsung AI Challenge - 10th Place in Camera-Invariant Domain Adaptation)
 
 ## 🌟 Relevant Experience
-- 2024 SW 동행 해커톤 대학생 멘토
+- 2024 SW 동행 해커톤 대학생 멘토  
 (2024 SW DONGHANG Hackathon - University Mentor, Hosted by the Ministry of Science and ICT)
 
 ## 📜 Publications
-- 이종 특징 맵을 이용한 교차 어텐션 기반 소형 객체 검출 기법, 한국지능시스템학회(KIIS) 추계학술대회, 2024
+- 이종 특징 맵을 이용한 교차 어텐션 기반 소형 객체 검출 기법, 한국지능시스템학회(KIIS) 추계학술대회, 2024  
 (Small Object Detection Method Based on Cross Attention of Heterogeneous Feature Maps, Korean Institute of Intelligent Systems(KIIS) Fall Conference, 2024)
 
 ## ⌚ 연혁<br/>
