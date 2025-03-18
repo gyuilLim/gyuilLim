@@ -37,7 +37,7 @@ preREADME2 = """
 
 ## 📜 Publications
 - 이종 특징 맵을 이용한 교차 어텐션 기반 소형 객체 검출 기법, 한국지능시스템학회(KIIS) 추계학술대회, 2024
-(Small Object Detection Method Based on Cross Attention of Heterogeneous Feature Maps, Korea Intelligent Information System Society (KIIS) Fall Conference, 2024)
+(Small Object Detection Method Based on Cross Attention of Heterogeneous Feature Maps, Korean Institute of Intelligent Systems(KIIS) Fall Conference, 2024)
 
 ## ⌚ 연혁<br/>
 |활동|기간|비고|
