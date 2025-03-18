@@ -1,6 +1,5 @@
 
-# 👋 안녕하세요. 임규일입니다. Hello. 
- I'm GYUIL LIM
+# 👋 안녕하세요. 임규일입니다. Hello. I'm GYUIL LIM
 
 - 숭실대학교 AI융합학과 석사과정
 - M.S. Student in AI at Soongsil University, Major of AI Convergence
