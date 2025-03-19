@@ -12,9 +12,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/03/18 - [논문 요약/리뷰] DoRA: Weight-Decomposed Low-Rank Adaptation](https://mvcv.tistory.com/76) <br/>
 - [2025/03/17 - [논문 요약/리뷰] Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://mvcv.tistory.com/75) <br/>
 - [2025/03/11 - [논문 요약/리뷰] LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://mvcv.tistory.com/74) <br/>
-- [2025/03/07 - [논문 요약/리뷰] FuseMix: Data-Efficient Multimodal Fusion on a Single GPU](https://mvcv.tistory.com/73) <br/>
 
 
 ## 🏁 AI challenge
