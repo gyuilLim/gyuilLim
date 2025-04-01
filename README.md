@@ -26,6 +26,12 @@
 ## 📜 Publications
 - Small Object Detection Method Based on Cross Attention of Heterogeneous Feature Maps, Korean Institute of Intelligent Systems(KIIS) Fall Conference, 2024
 
+## 🗂️ Project
+- [Satellite Image Building Area Segmentation(2023)](https://github.com/gyuilLim/Satellite_Image_Building_Area_Segmentation)
+- [Camera Invariant Domain Adaptation(2023)](https://github.com/gyuilLim/Camera_Invariant_Domain_Adaptation)
+- [Youtube scene search with text(2024)](https://github.com/gyuilLim/Youtube-scene-search-with-text)
+- [Scene search video player(2024)](https://github.com/gyuilLim/Scene-search-video-player)
+
 ## ⌚ History<br/>
 |Activity|Period|Note|
 |:---:|:---:|:---:|
