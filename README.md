@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/04/24 - [논문 요약/리뷰] A Survey on Hallucination in Large Vision-Language Models](https://mvcv.tistory.com/82) <br/>
 - [2025/04/16 - [논문 리뷰/요약] GRES: Generalized Referring Expression Segmentation](https://mvcv.tistory.com/81) <br/>
 - [2025/03/31 - [논문 요약/리뷰] Evaluating Object Hallucination in Large Vision-Language Models](https://mvcv.tistory.com/80) <br/>
-- [2025/03/31 - [논문 요약/리뷰] DINOv2: Learning Robust Visual Features without Supervision](https://mvcv.tistory.com/79) <br/>
 
 
 ## 🏁 AI challenge
