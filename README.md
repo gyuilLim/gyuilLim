@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/05/09 - 구글 서머 오브 코드(Google Summer of Code) 합격 후기](https://mvcv.tistory.com/85) <br/>
 - [2025/05/02 - [논문 요약/리뷰] Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation](https://mvcv.tistory.com/84) <br/>
 - [2025/05/02 - [논문 요약/리뷰] LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://mvcv.tistory.com/83) <br/>
-- [2025/04/24 - [논문 요약/리뷰] A Survey on Hallucination in Large Vision-Language Models](https://mvcv.tistory.com/82) <br/>
 
 
 ## 🏁 AI challenge
