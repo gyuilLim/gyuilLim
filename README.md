@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/05/19 - [논문 요약/리뷰] Vision Transformers for Dense Prediction](https://mvcv.tistory.com/87) <br/>
 - [2025/05/16 - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://mvcv.tistory.com/86) <br/>
 - [2025/05/09 - 구글 서머 오브 코드(Google Summer of Code) 합격 후기](https://mvcv.tistory.com/85) <br/>
-- [2025/05/02 - [논문 요약/리뷰] Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation](https://mvcv.tistory.com/84) <br/>
 
 
 ## 🏁 AI challenge
