@@ -28,11 +28,15 @@ jobs:
       run: | 
         git pull
         git add .
-        git diff        
-        git config --local user.email "gyuilLim@github.com"
-        git config --local user.name "gyuilLim"
-        git commit -m "Updating Blog Posts"
-        git push
 
+        # 변경 사항이 있을 경우에만 커밋 & 푸시
+        if ! git diff --cached --quiet; then
+          git config --local user.email "gyuilLim@github.com"
+          git config --local user.name "gyuilLim"
+          git commit -m "Updating Blog Posts"
+          git push
+        else
+          echo "No changes to commit."
+        fi
 
     
