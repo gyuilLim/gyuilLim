@@ -11,7 +11,7 @@
 
 
 ## ✍️ Recent Post 
-- [2025/06/18 - GSVA: Generalized Segmentation via Multimodal Large Language Models](https://mvcv.tistory.com/89) <br/>
+- [2025/06/18 - [논문 요약/리뷰] GSVA: Generalized Segmentation via Multimodal Large Language Models](https://mvcv.tistory.com/89) <br/>
 - [2025/05/28 - [논문 요약/리뷰] Bring Adaptive Binding Prototypes to Generalized Referring Expression Segmentation](https://mvcv.tistory.com/88) <br/>
 - [2025/05/19 - [논문 요약/리뷰] Vision Transformers for Dense Prediction](https://mvcv.tistory.com/87) <br/>
 
