@@ -11,9 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/08/06 - 한여름. 두 대학원생의 2호선 따라걷기.](https://mvcv.tistory.com/92) <br/>
 - [2025/07/16 - 구글 서머 오브 코드(Google Summer of Code) 중간 후기](https://mvcv.tistory.com/91) <br/>
 - [2025/07/04 - [논문 요약/리뷰] CRIS: CLIP-Driven Referring Image Segmentation](https://mvcv.tistory.com/90) <br/>
-- [2025/06/18 - [논문 요약/리뷰] GSVA: Generalized Segmentation via Multimodal Large Language Models](https://mvcv.tistory.com/89) <br/>
 
 
 ## 🏁 AI challenge
