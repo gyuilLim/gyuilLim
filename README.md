@@ -11,6 +11,9 @@
 
 
 ## ✍️ Recent Post 
+- [2025/09/09 - 구글 서머 오브 코드(Google Summer of Code, GSoC 2025) 최종 평가](https://mvcv.tistory.com/93) <br/>
+- [2025/08/06 - 한여름. 두 대학원생의 2호선 따라걷기.](https://mvcv.tistory.com/92) <br/>
+- [2025/07/16 - 구글 서머 오브 코드(Google Summer of Code, GSoC 2025) 중간 후기](https://mvcv.tistory.com/91) <br/>
 
 
 ## 🏁 AI challenge
@@ -28,6 +31,7 @@
 - [Camera Invariant Domain Adaptation(2023)](https://github.com/gyuilLim/Camera_Invariant_Domain_Adaptation)
 - [Youtube Scene Search With Text(2024)](https://github.com/gyuilLim/Youtube-scene-search-with-text)
 - [Scene Search Video Player(2024)](https://github.com/gyuilLim/Scene-search-video-player)
+- [Google Summer of Code(2025)](https://github.com/gyuilLim/GSoC_2025)
 
 ## ⌚ History<br/>
 |Activity|Period|Note|
